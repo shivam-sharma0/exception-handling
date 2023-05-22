@@ -10,6 +10,9 @@ public class Main {
         System.out.println(arr[5]);  // throw new ArrayIndexOutOfBound();
         int a = 5 / b; // ArithmeticException
         System.out.println("E");
+        System.out.println("E");
+        System.out.println("E");
+        System.out.println("E");
     }
 
     public static class A {
